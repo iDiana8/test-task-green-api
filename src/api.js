@@ -1,7 +1,3 @@
-export function phoneToChatId(phone) {
-    
-}
-
 export async function sendTextMessage(idInstance, apiTokenInstance, chatId, message) {
     
 }
